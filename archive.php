@@ -8,7 +8,8 @@
  * @since 1.0.0
  */
 
-get_header(); ?>
+get_header(); 
+?>
 
 <div class="wrap">
 
